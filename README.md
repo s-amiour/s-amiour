@@ -4,4 +4,4 @@
 
 <!-- [![Website Badge](https://img.shields.io/badge/website-<insert_here>-blue)](https://<website>) -->
 
-links: - [X](https://x.com/_sultan717) - [LinkedIn](https://linkedin.com/in/sultan-amiour)
+links: [X](https://x.com/_sultan717) - [LinkedIn](https://linkedin.com/in/sultan-amiour)
